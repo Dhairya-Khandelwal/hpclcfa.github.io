@@ -72,9 +72,9 @@ h1{
 
 
 
-td,table{
+table{
 	border:5px solid black;
-	width:10%;
+	width:100%;
     padding:10px;
 }
 
